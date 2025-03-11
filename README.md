@@ -7,6 +7,7 @@ Create Blender app Template from current Session
 
 This project was bootstrapped with [Blender extension Template](git@github.com:kitchen-production/blender-extension-template.git).
 
+![Screenshot](.media/screenshot.png)
 
 ## ⚙️ Commands
 
